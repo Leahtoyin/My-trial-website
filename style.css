@@ -9,7 +9,7 @@ body {
 header {
     background-color: #6200ea;
     color: white;
-    padding: 20px;
+   padding: 20px;
 }
 
 main {
@@ -17,7 +17,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #f98989;
     color: white;
     padding: 10px;
     position: fixed;
@@ -26,7 +26,7 @@ footer {
 }
 
 button {
-    background-color: #6200ea;
+    background-color: #ea0000;
     color: white;
     border: none;
     padding: 10px 20px;
